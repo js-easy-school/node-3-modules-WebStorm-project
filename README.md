@@ -1,7 +1,5 @@
 # JS Easy School
 
-![JS Easy School Banner](./public/banner.png)
-
 Пример проекта с использованием технологий, таких как Express, для создания простого веб-приложения.
 
 [![License: MIT](https://img.shields.io/github/license/js-easy-school/js-easy-school?style=flat-square)](./LICENSE.md)
