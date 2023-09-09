@@ -4,7 +4,7 @@
 
 [![License: MIT](https://img.shields.io/github/license/js-easy-school/js-easy-school?style=flat-square)](./LICENSE.md)
 [![Repo Size](https://img.shields.io/github/repo-size/js-easy-school/js-easy-school?style=flat-square)](https://github.com/js-easy-school/js-easy-school)
-[![Languages](https://img.shields.io/github/languages/count/js-easy-school/js-easy-school?style=flat-square)](https://github.com/js-easy-school/js-easy-school)
+[![Languages](https://img.shields.io/github/languages/count/js-easy-school/js-easy-school.svg?style=flat-square)](https://github.com/js-easy-school/js-easy-school)
 [![Starts](https://img.shields.io/github/stars/js-easy-school/js-easy-school?style=flat-square)](https://github.com/js-easy-school/js-easy-school)
 
 ---
